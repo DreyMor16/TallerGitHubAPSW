@@ -2978,19 +2978,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JDEM_\\.nuget\\packages\\": {}
+    "C:\\Users\\PC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\MarketPlaceGit.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\source\\repos\\gitEjemploProgramadoAPSW\\MarketPlaceGit\\MarketPlaceGit.csproj",
       "projectName": "MarketPlaceGit",
-      "projectPath": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\MarketPlaceGit.csproj",
-      "packagesPath": "C:\\Users\\JDEM_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JDEM_\\source\\repos\\MarketPlaceGit\\MarketPlaceGit\\obj\\",
+      "projectPath": "C:\\Users\\PC\\source\\repos\\gitEjemploProgramadoAPSW\\MarketPlaceGit\\MarketPlaceGit.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PC\\source\\repos\\gitEjemploProgramadoAPSW\\MarketPlaceGit\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\JDEM_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3056,7 +3056,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
